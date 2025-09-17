@@ -1,0 +1,1003 @@
+[
+    {
+    "id": 0,
+    "quote": "O Senhor é meu pastor; nada me faltará.",
+    "author": "Salmos 23:1"
+    },
+    {
+    "id": 1,
+    "quote": "Deitar-me faz em verdes pastos, guia-me mansamente a águas tranquilas.",
+    "author": "Salmos 23:2"
+    },
+    {
+    "id": 2,
+    "quote": "Ainda que eu ande pelo vale da sombra da morte, não temerei mal algum, porque tu estás comigo.",
+    "author": "Salmos 23:4"
+    },
+  {
+    "id": 3,
+    "quote": "O Senhor é a minha luz e a minha salvação; de quem terei medo?",
+    "author": "Salmos 27:1"
+  },
+  {
+    "id": 4,
+    "quote": "Espera no Senhor; anima-te, e ele fortalecerá o teu coração.",
+    "author": "Salmos 27:14"
+  },
+  {
+    "id": 5,
+    "quote": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia.",
+    "author": "Salmos 46:1"
+  },
+  {
+    "id": 6,
+    "quote": "Aquietai-vos e sabei que eu sou Deus.",
+    "author": "Salmos 46:10"
+  },
+  {
+    "id": 7,
+    "quote": "Bendize, ó minha alma, ao Senhor, e tudo o que há em mim bendiga o seu santo nome.",
+    "author": "Salmos 103:1"
+  },
+  {
+    "id": 8,
+    "quote": "Como um pai se compadece de seus filhos, assim o Senhor se compadece dos que o temem.",
+    "author": "Salmos 103:13"
+  },
+  {
+    "id": 9,
+    "quote": "A bondade do Senhor é de eternidade a eternidade sobre os que o temem.",
+    "author": "Salmos 103:17"
+  },
+  {
+    "id": 10,
+    "quote": "Louvai ao Senhor, porque ele é bom; porque a sua benignidade é para sempre.",
+    "author": "Salmos 136:1"
+  },
+  {
+    "id": 11,
+    "quote": "Lâmpada para os meus pés é a tua palavra, e luz para o meu caminho.",
+    "author": "Salmos 119:105"
+  },
+  {
+    "id": 12,
+    "quote": "No dia em que eu clamei, me escutaste; alentaste-me com força em minha alma.",
+    "author": "Salmos 138:3"
+  },
+  {
+    "id": 13,
+    "quote": "O Senhor completará o que me concerne.",
+    "author": "Salmos 138:8"
+  },
+  {
+    "id": 14,
+    "quote": "O Senhor é o meu rochedo, a minha fortaleza e o meu libertador.",
+    "author": "Salmos 18:2"
+  },
+  {
+    "id": 15,
+    "quote": "Invocarei o Senhor, digno de louvor, e serei salvo dos meus inimigos.",
+    "author": "Salmos 18:3"
+  },
+  {
+    "id": 16,
+    "quote": "Com o meu Deus saltarei muralhas.",
+    "author": "Salmos 18:29"
+  },
+  {
+    "id": 17,
+    "quote": "O caminho de Deus é perfeito; a palavra do Senhor é provada.",
+    "author": "Salmos 18:30"
+  },
+  {
+    "id": 18,
+    "quote": "O Senhor vive; bendito seja o meu rochedo.",
+    "author": "Salmos 18:46"
+  },
+  {
+    "id": 19,
+    "quote": "Em ti confiarão os que conhecem o teu nome.",
+    "author": "Salmos 9:10"
+  },
+  {
+    "id": 20,
+    "quote": "Senhor, tu tens sido o nosso refúgio de geração em geração.",
+    "author": "Salmos 90:1"
+  },
+  {
+    "id": 21,
+    "quote": "Ensina-nos a contar os nossos dias, de tal maneira que alcancemos corações sábios.",
+    "author": "Salmos 90:12"
+  },
+  {
+    "id": 22,
+    "quote": "Sacia-nos de manhã com a tua benignidade, para que nos alegremos todos os dias.",
+    "author": "Salmos 90:14"
+  },
+  {
+    "id": 23,
+    "quote": "A glória do Senhor dure para sempre; alegre-se o Senhor em suas obras.",
+    "author": "Salmos 104:31"
+  },
+  {
+    "id": 24,
+    "quote": "O Senhor olha desde os céus; vê todos os filhos dos homens.",
+    "author": "Salmos 33:13"
+  },
+  {
+    "id": 25,
+    "quote": "Eis que os olhos do Senhor estão sobre os que o temem.",
+    "author": "Salmos 33:18"
+  },
+  {
+    "id": 26,
+    "quote": "Alegrai-vos no Senhor, vós justos; pois aos retos convém o louvor.",
+    "author": "Salmos 33:1"
+  },
+  {
+    "id": 27,
+    "quote": "Clamai a Deus com a voz de triunfo.",
+    "author": "Salmos 47:1"
+  },
+  {
+    "id": 28,
+    "quote": "Cantai louvores a Deus, cantai louvores; cantai louvores ao nosso Rei.",
+    "author": "Salmos 47:6"
+  },
+  {
+    "id": 29,
+    "quote": "Elevo os meus olhos para os montes; de onde me virá o socorro?",
+    "author": "Salmos 121:1"
+  },
+  {
+    "id": 30,
+    "quote": "O meu socorro vem do Senhor, que fez o céu e a terra.",
+    "author": "Salmos 121:2"
+  },
+  {
+    "id": 31,
+    "quote": "O Senhor guardará a tua entrada e a tua saída, desde agora e para sempre.",
+    "author": "Salmos 121:8"
+  },
+  {
+    "id": 32,
+    "quote": "Provem e vejam como o Senhor é bom.",
+    "author": "Salmos 34:8"
+  },
+  {
+    "id": 33,
+    "quote": "Busquei ao Senhor, e ele me respondeu.",
+    "author": "Salmos 34:4"
+  },
+  {
+    "id": 34,
+    "quote": "O justo passa por muitas aflições, mas o Senhor o livra de todas.",
+    "author": "Salmos 34:19"
+  },
+  {
+    "id": 35,
+    "quote": "O anjo do Senhor acampa-se ao redor dos que o temem e os livra.",
+    "author": "Salmos 34:7"
+  },
+  {
+    "id": 36,
+    "quote": "Cria em mim, ó Deus, um coração puro.",
+    "author": "Salmos 51:10"
+  },
+  {
+    "id": 37,
+    "quote": "Não me lances fora da tua presença.",
+    "author": "Salmos 51:11"
+  },
+  {
+    "id": 38,
+    "quote": "A alegria do Senhor é a nossa força.",
+    "author": "Neemias 8:10"
+  },
+  {
+    "id": 39,
+    "quote": "Clama a mim e responder-te-ei.",
+    "author": "Jeremias 33:3"
+  },
+  {
+    "id": 40,
+    "quote": "Mil cairão ao teu lado, e dez mil à tua direita, mas tu não serás atingido.",
+    "author": "Salmos 91:7"
+  },
+  {
+    "id": 41,
+    "quote": "Porque aos seus anjos dará ordem a teu respeito.",
+    "author": "Salmos 91:11"
+  },
+  {
+    "id": 42,
+    "quote": "Direi do Senhor: Ele é o meu Deus, o meu refúgio, a minha fortaleza.",
+    "author": "Salmos 91:2"
+  },
+  {
+    "id": 43,
+    "quote": "Aquele que habita no esconderijo do Altíssimo descansará à sombra do Onipotente.",
+    "author": "Salmos 91:1"
+  },
+  {
+    "id": 44,
+    "quote": "O choro pode durar uma noite, mas a alegria vem pela manhã.",
+    "author": "Salmos 30:5"
+  },
+  {
+    "id": 45,
+    "quote": "Guia-me pelas veredas da justiça por amor do seu nome.",
+    "author": "Salmos 23:3"
+  },
+  {
+    "id": 46,
+    "quote": "Preparas uma mesa perante mim na presença dos meus inimigos.",
+    "author": "Salmos 23:5"
+  },
+  {
+    "id": 47,
+    "quote": "Certamente que a bondade e a misericórdia me seguirão todos os dias da minha vida.",
+    "author": "Salmos 23:6"
+  },
+  {
+    "id": 48,
+    "quote": "Examina-me, Senhor, e prova-me.",
+    "author": "Salmos 26:2"
+  },
+  {
+    "id": 49,
+    "quote": "O Senhor é a força do seu povo; é a fortaleza da salvação do seu ungido.",
+    "author": "Salmos 28:8"
+  },
+    {
+    "id": 50,
+    "quote": "Entrega o teu caminho ao Senhor; confia nele, e o mais ele fará.",
+    "author": "Salmos 37:5"
+  },
+  {
+    "id": 51,
+    "quote": "Agrada-te do Senhor, e ele satisfará os desejos do teu coração.",
+    "author": "Salmos 37:4"
+  },
+  {
+    "id": 52,
+    "quote": "Espera no Senhor e guarda o seu caminho, e te exaltará para herdares a terra.",
+    "author": "Salmos 37:34"
+  },
+  {
+    "id": 53,
+    "quote": "O Senhor firma os passos do homem bom e se compraz no seu caminho.",
+    "author": "Salmos 37:23"
+  },
+  {
+    "id": 54,
+    "quote": "Nunca vi o justo desamparado, nem a sua descendência a mendigar o pão.",
+    "author": "Salmos 37:25"
+  },
+  {
+    "id": 55,
+    "quote": "O Senhor é bom, uma fortaleza no dia da angústia; e conhece os que nele confiam.",
+    "author": "Naum 1:7"
+  },
+  {
+    "id": 56,
+    "quote": "Espera no Senhor, anima-te, e ele fortalecerá o teu coração.",
+    "author": "Salmos 27:14"
+  },
+  {
+    "id": 57,
+    "quote": "Quando eu clamei, tu me socorreste e alentaste a força da minha alma.",
+    "author": "Salmos 138:3"
+  },
+  {
+    "id": 58,
+    "quote": "Se o Senhor não edificar a casa, em vão trabalham os que a edificam.",
+    "author": "Salmos 127:1"
+  },
+  {
+    "id": 59,
+    "quote": "Bem-aventurado o homem que põe no Senhor a sua confiança.",
+    "author": "Salmos 40:4"
+  },
+  {
+    "id": 60,
+    "quote": "Esperei com paciência no Senhor, e ele se inclinou para mim e ouviu o meu clamor.",
+    "author": "Salmos 40:1"
+  },
+  {
+    "id": 61,
+    "quote": "Pôs um novo cântico na minha boca, um hino ao nosso Deus.",
+    "author": "Salmos 40:3"
+  },
+  {
+    "id": 62,
+    "quote": "Tu és o meu auxílio e o meu libertador; não te detenhas, ó meu Deus.",
+    "author": "Salmos 40:17"
+  },
+  {
+    "id": 63,
+    "quote": "Os que semeiam em lágrimas segarão com alegria.",
+    "author": "Salmos 126:5"
+  },
+  {
+    "id": 64,
+    "quote": "Aquele que leva a preciosa semente, andando e chorando, voltará sem dúvida com alegria.",
+    "author": "Salmos 126:6"
+  },
+  {
+    "id": 65,
+    "quote": "O Senhor te guardará de todo mal; ele guardará a tua alma.",
+    "author": "Salmos 121:7"
+  },
+  {
+    "id": 66,
+    "quote": "Elevo os meus olhos para os montes; de onde me virá o socorro?",
+    "author": "Salmos 121:1"
+  },
+  {
+    "id": 67,
+    "quote": "O meu socorro vem do Senhor, que fez o céu e a terra.",
+    "author": "Salmos 121:2"
+  },
+  {
+    "id": 68,
+    "quote": "O Senhor é quem te guarda; o Senhor é a tua sombra à tua direita.",
+    "author": "Salmos 121:5"
+  },
+  {
+    "id": 69,
+    "quote": "O Senhor guardará a tua entrada e a tua saída, desde agora e para sempre.",
+    "author": "Salmos 121:8"
+  },
+  {
+    "id": 70,
+    "quote": "O Senhor está perto de todos os que o invocam em verdade.",
+    "author": "Salmos 145:18"
+  },
+  {
+    "id": 71,
+    "quote": "O Senhor é bom para todos, e as suas misericórdias estão sobre todas as suas obras.",
+    "author": "Salmos 145:9"
+  },
+  {
+    "id": 72,
+    "quote": "O Senhor sustém a todos os que caem e levanta a todos os abatidos.",
+    "author": "Salmos 145:14"
+  },
+  {
+    "id": 73,
+    "quote": "Perto está o Senhor dos que têm o coração quebrantado.",
+    "author": "Salmos 34:18"
+  },
+  {
+    "id": 74,
+    "quote": "O Senhor resgata a alma dos seus servos; e nenhum dos que nele confiam será condenado.",
+    "author": "Salmos 34:22"
+  },
+  {
+    "id": 75,
+    "quote": "O justo passa por muitas aflições, mas o Senhor o livra de todas.",
+    "author": "Salmos 34:19"
+  },
+  {
+    "id": 76,
+    "quote": "Busquei ao Senhor, e ele me respondeu, e de todos os meus temores me livrou.",
+    "author": "Salmos 34:4"
+  },
+  {
+    "id": 77,
+    "quote": "O anjo do Senhor acampa-se ao redor dos que o temem e os livra.",
+    "author": "Salmos 34:7"
+  },
+  {
+    "id": 78,
+    "quote": "Confia no Senhor e faze o bem; habitarás na terra e verdadeiramente serás alimentado.",
+    "author": "Salmos 37:3"
+  },
+  {
+    "id": 79,
+    "quote": "O Senhor firma os passos do homem bom.",
+    "author": "Salmos 37:23"
+  },
+  {
+    "id": 80,
+    "quote": "Aparta-te do mal e faze o bem; e terás morada para sempre.",
+    "author": "Salmos 37:27"
+  },
+  {
+    "id": 81,
+    "quote": "O Senhor ama o juízo e não desampara os seus santos.",
+    "author": "Salmos 37:28"
+  },
+  {
+    "id": 82,
+    "quote": "O Senhor conhece os dias dos íntegros, e a herança deles permanecerá para sempre.",
+    "author": "Salmos 37:18"
+  },
+  {
+    "id": 83,
+    "quote": "Confia no Senhor e faze o bem.",
+    "author": "Salmos 37:3"
+  },
+  {
+    "id": 84,
+    "quote": "Entrega o teu caminho ao Senhor, confia nele e o mais ele fará.",
+    "author": "Salmos 37:5"
+  },
+  {
+    "id": 85,
+    "quote": "Deleita-te no Senhor, e ele concederá o que deseja o teu coração.",
+    "author": "Salmos 37:4"
+  },
+  {
+    "id": 86,
+    "quote": "Espera no Senhor, anima-te e ele fortalecerá o teu coração.",
+    "author": "Salmos 27:14"
+  },
+  {
+    "id": 87,
+    "quote": "O Senhor é a minha luz e a minha salvação.",
+    "author": "Salmos 27:1"
+  },
+  {
+    "id": 88,
+    "quote": "Uma coisa pedi ao Senhor, e a buscarei: que eu possa morar na casa do Senhor todos os dias da minha vida.",
+    "author": "Salmos 27:4"
+  },
+  {
+    "id": 89,
+    "quote": "Ainda que meu pai e minha mãe me desamparem, o Senhor me acolherá.",
+    "author": "Salmos 27:10"
+  },
+  {
+    "id": 90,
+    "quote": "O Senhor é a força da minha vida; de quem me recearei?",
+    "author": "Salmos 27:1"
+  },
+  {
+    "id": 91,
+    "quote": "Espera no Senhor e guarda o seu caminho.",
+    "author": "Salmos 37:34"
+  },
+  {
+    "id": 92,
+    "quote": "Os passos de um homem bom são confirmados pelo Senhor.",
+    "author": "Salmos 37:23"
+  },
+  {
+    "id": 93,
+    "quote": "O Senhor ajuda-os e os livra; livra-os dos ímpios e os salva, porque nele confiaram.",
+    "author": "Salmos 37:40"
+  },
+  {
+    "id": 94,
+    "quote": "Deleita-te também no Senhor, e ele concederá os desejos do teu coração.",
+    "author": "Salmos 37:4"
+  },
+  {
+    "id": 95,
+    "quote": "O Senhor firma os passos do homem e se compraz no seu caminho.",
+    "author": "Salmos 37:23"
+  },
+  {
+    "id": 96,
+    "quote": "Confia no Senhor e faze o bem.",
+    "author": "Salmos 37:3"
+  },
+  {
+    "id": 97,
+    "quote": "Entrega o teu caminho ao Senhor, confia nele, e o mais ele fará.",
+    "author": "Salmos 37:5"
+  },
+  {
+    "id": 98,
+    "quote": "Descansa no Senhor e espera nele.",
+    "author": "Salmos 37:7"
+  },
+  {
+    "id": 99,
+    "quote": "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus.",
+    "author": "Isaías 41:10"
+  },
+    {
+    "id": 100,
+    "quote": "Clama a mim e responder-te-ei e anunciar-te-ei coisas grandes e firmes que não sabes.",
+    "author": "Jeremias 33:3"
+  },
+  {
+    "id": 101,
+    "quote": "O Senhor é bom para os que nele esperam, para a alma que o busca.",
+    "author": "Lamentações 3:25"
+  },
+  {
+    "id": 102,
+    "quote": "As misericórdias do Senhor são a causa de não sermos consumidos.",
+    "author": "Lamentações 3:22"
+  },
+  {
+    "id": 103,
+    "quote": "Grande é a tua fidelidade.",
+    "author": "Lamentações 3:23"
+  },
+  {
+    "id": 104,
+    "quote": "Espera no Senhor, anima-te, e ele fortalecerá o teu coração.",
+    "author": "Salmos 27:14"
+  },
+  {
+    "id": 105,
+    "quote": "Bem-aventurado aquele que tem o Deus de Jacó por seu auxílio.",
+    "author": "Salmos 146:5"
+  },
+  {
+    "id": 106,
+    "quote": "O Senhor guarda a todos os que o amam.",
+    "author": "Salmos 145:20"
+  },
+  {
+    "id": 107,
+    "quote": "Louvarei ao Senhor em todo o tempo; o seu louvor estará continuamente na minha boca.",
+    "author": "Salmos 34:1"
+  },
+  {
+    "id": 108,
+    "quote": "Buscai ao Senhor enquanto se pode achar, invocai-o enquanto está perto.",
+    "author": "Isaías 55:6"
+  },
+  {
+    "id": 109,
+    "quote": "Os que confiam no Senhor são como o monte Sião, que não se abala, firme para sempre.",
+    "author": "Salmos 125:1"
+  },
+  {
+    "id": 110,
+    "quote": "O Senhor é a minha parte, diz a minha alma; portanto esperarei nele.",
+    "author": "Lamentações 3:24"
+  },
+  {
+    "id": 111,
+    "quote": "Bem-aventurados os que guardam os seus testemunhos, e o buscam de todo o coração.",
+    "author": "Salmos 119:2"
+  },
+  {
+    "id": 112,
+    "quote": "Guardo a tua palavra no meu coração, para não pecar contra ti.",
+    "author": "Salmos 119:11"
+  },
+  {
+    "id": 113,
+    "quote": "Para sempre está firmada a tua palavra no céu.",
+    "author": "Salmos 119:89"
+  },
+  {
+    "id": 114,
+    "quote": "Louvarei ao Senhor enquanto eu viver; cantarei louvores ao meu Deus enquanto eu tiver vida.",
+    "author": "Salmos 146:2"
+  },
+  {
+    "id": 115,
+    "quote": "Bendirei ao Senhor em todo o tempo.",
+    "author": "Salmos 34:1"
+  },
+  {
+    "id": 116,
+    "quote": "O Senhor é a minha força e o meu cântico; ele me foi por salvação.",
+    "author": "Salmos 118:14"
+  },
+  {
+    "id": 117,
+    "quote": "Este é o dia que fez o Senhor; regozijemo-nos e alegremo-nos nele.",
+    "author": "Salmos 118:24"
+  },
+  {
+    "id": 118,
+    "quote": "É melhor confiar no Senhor do que confiar no homem.",
+    "author": "Salmos 118:8"
+  },
+  {
+    "id": 119,
+    "quote": "É melhor confiar no Senhor do que confiar nos príncipes.",
+    "author": "Salmos 118:9"
+  },
+  {
+    "id": 120,
+    "quote": "Louvai ao Senhor todas as nações; louvai-o todos os povos.",
+    "author": "Salmos 117:1"
+  },
+  {
+    "id": 121,
+    "quote": "Porque a sua benignidade é grande para conosco, e a verdade do Senhor dura para sempre.",
+    "author": "Salmos 117:2"
+  },
+  {
+    "id": 122,
+    "quote": "Grandes coisas fez o Senhor por nós, pelas quais estamos alegres.",
+    "author": "Salmos 126:3"
+  },
+  {
+    "id": 123,
+    "quote": "O Senhor guardará a tua saída e a tua entrada, desde agora e para sempre.",
+    "author": "Salmos 121:8"
+  },
+  {
+    "id": 124,
+    "quote": "Aquele que habita no esconderijo do Altíssimo, à sombra do Onipotente descansará.",
+    "author": "Salmos 91:1"
+  },
+  {
+    "id": 125,
+    "quote": "Direi do Senhor: Ele é o meu Deus, o meu refúgio, a minha fortaleza, e nele confiarei.",
+    "author": "Salmos 91:2"
+  },
+  {
+    "id": 126,
+    "quote": "Ele te cobrirá com as suas penas, e debaixo das suas asas te confiarás.",
+    "author": "Salmos 91:4"
+  },
+  {
+    "id": 127,
+    "quote": "Mil cairão ao teu lado, e dez mil à tua direita, mas tu não serás atingido.",
+    "author": "Salmos 91:7"
+  },
+  {
+    "id": 128,
+    "quote": "Porque aos seus anjos dará ordem a teu respeito, para te guardarem em todos os teus caminhos.",
+    "author": "Salmos 91:11"
+  },
+  {
+    "id": 129,
+    "quote": "Com seus olhos verás a recompensa dos ímpios.",
+    "author": "Salmos 91:8"
+  },
+  {
+    "id": 130,
+    "quote": "O Senhor é bom, um refúgio em tempos de angústia.",
+    "author": "Naum 1:7"
+  },
+  {
+    "id": 131,
+    "quote": "Ainda que a figueira não floresça, todavia eu me alegrarei no Senhor.",
+    "author": "Habacuque 3:17-18"
+  },
+  {
+    "id": 132,
+    "quote": "Deus é o nosso refúgio e fortaleza.",
+    "author": "Salmos 46:1"
+  },
+  {
+    "id": 133,
+    "quote": "O Senhor dos Exércitos está conosco; o Deus de Jacó é o nosso refúgio.",
+    "author": "Salmos 46:7"
+  },
+  {
+    "id": 134,
+    "quote": "O Senhor é a minha rocha e a minha fortaleza.",
+    "author": "Salmos 18:2"
+  },
+  {
+    "id": 135,
+    "quote": "Bendito seja o Senhor, que de dia em dia nos cumula de benefícios.",
+    "author": "Salmos 68:19"
+  },
+  {
+    "id": 136,
+    "quote": "O Senhor é o meu auxílio; não temerei.",
+    "author": "Hebreus 13:6"
+  },
+  {
+    "id": 137,
+    "quote": "O Senhor é quem te guarda; o Senhor é a tua sombra à tua direita.",
+    "author": "Salmos 121:5"
+  },
+  {
+    "id": 138,
+    "quote": "O Senhor é justo em todos os seus caminhos, e santo em todas as suas obras.",
+    "author": "Salmos 145:17"
+  },
+  {
+    "id": 139,
+    "quote": "O Senhor é bom para todos.",
+    "author": "Salmos 145:9"
+  },
+  {
+    "id": 140,
+    "quote": "Perto está o Senhor de todos os que o invocam.",
+    "author": "Salmos 145:18"
+  },
+  {
+    "id": 141,
+    "quote": "O Senhor sustém a todos os que caem e levanta a todos os abatidos.",
+    "author": "Salmos 145:14"
+  },
+  {
+    "id": 142,
+    "quote": "O Senhor abre a sua mão e satisfaz o desejo de todos os viventes.",
+    "author": "Salmos 145:16"
+  },
+  {
+    "id": 143,
+    "quote": "Cantai ao Senhor um cântico novo.",
+    "author": "Salmos 96:1"
+  },
+  {
+    "id": 144,
+    "quote": "Adorai ao Senhor na beleza da sua santidade.",
+    "author": "Salmos 29:2"
+  },
+  {
+    "id": 145,
+    "quote": "A terra está cheia da bondade do Senhor.",
+    "author": "Salmos 33:5"
+  },
+  {
+    "id": 146,
+    "quote": "O Senhor olha desde os céus e vê todos os filhos dos homens.",
+    "author": "Salmos 33:13"
+  },
+  {
+    "id": 147,
+    "quote": "Eis que os olhos do Senhor estão sobre os que o temem.",
+    "author": "Salmos 33:18"
+  },
+  {
+    "id": 148,
+    "quote": "A palavra do Senhor é reta, e todas as suas obras são fiéis.",
+    "author": "Salmos 33:4"
+  },
+  {
+    "id": 149,
+    "quote": "Bem-aventurado aquele cuja força está em ti, em cujo coração estão os caminhos aplanados.",
+    "author": "Salmos 84:5"
+  },
+    {
+    "id": 150,
+    "quote": "Vale mais um dia nos teus átrios do que mil em outro lugar.",
+    "author": "Salmos 84:10"
+  },
+  {
+    "id": 151,
+    "quote": "O Senhor dará graça e glória; não negará bem algum aos que andam na retidão.",
+    "author": "Salmos 84:11"
+  },
+  {
+    "id": 152,
+    "quote": "Porque o Senhor Deus é sol e escudo.",
+    "author": "Salmos 84:11"
+  },
+  {
+    "id": 153,
+    "quote": "A lei do Senhor é perfeita, e refrigera a alma.",
+    "author": "Salmos 19:7"
+  },
+  {
+    "id": 154,
+    "quote": "Os preceitos do Senhor são retos e alegram o coração.",
+    "author": "Salmos 19:8"
+  },
+  {
+    "id": 155,
+    "quote": "Mais desejáveis são do que o ouro, sim, do que muito ouro fino.",
+    "author": "Salmos 19:10"
+  },
+  {
+    "id": 156,
+    "quote": "As palavras da minha boca e a meditação do meu coração sejam agradáveis a ti, Senhor.",
+    "author": "Salmos 19:14"
+  },
+  {
+    "id": 157,
+    "quote": "Confia no Senhor para sempre; porque o Senhor Deus é uma rocha eterna.",
+    "author": "Isaías 26:4"
+  },
+  {
+    "id": 158,
+    "quote": "Os que esperam no Senhor renovarão as suas forças, subirão com asas como águias.",
+    "author": "Isaías 40:31"
+  },
+  {
+    "id": 159,
+    "quote": "Correrão e não se cansarão; caminharão e não se fatigarão.",
+    "author": "Isaías 40:31"
+  },
+  {
+    "id": 160,
+    "quote": "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus.",
+    "author": "Isaías 41:10"
+  },
+  {
+    "id": 161,
+    "quote": "Eu te esforço, e te ajudo, e te sustento com a destra da minha justiça.",
+    "author": "Isaías 41:10"
+  },
+  {
+    "id": 162,
+    "quote": "Porque eu bem sei os pensamentos que tenho a vosso respeito, diz o Senhor.",
+    "author": "Jeremias 29:11"
+  },
+  {
+    "id": 163,
+    "quote": "Pensamentos de paz, e não de mal, para vos dar o fim que esperais.",
+    "author": "Jeremias 29:11"
+  },
+  {
+    "id": 164,
+    "quote": "Clama a mim, e responder-te-ei, e anunciar-te-ei coisas grandes e firmes que não sabes.",
+    "author": "Jeremias 33:3"
+  },
+  {
+    "id": 165,
+    "quote": "O Senhor é bom, ele serve de fortaleza no dia da angústia.",
+    "author": "Naum 1:7"
+  },
+  {
+    "id": 166,
+    "quote": "Ainda que eu ande pelo vale da sombra da morte, não temerei mal algum, porque tu estás comigo.",
+    "author": "Salmos 23:4"
+  },
+  {
+    "id": 167,
+    "quote": "Preparas uma mesa perante mim na presença dos meus inimigos.",
+    "author": "Salmos 23:5"
+  },
+  {
+    "id": 168,
+    "quote": "Certamente que a bondade e a misericórdia me seguirão todos os dias da minha vida.",
+    "author": "Salmos 23:6"
+  },
+  {
+    "id": 169,
+    "quote": "O Senhor é a força do seu povo, também é a força salvadora do seu ungido.",
+    "author": "Salmos 28:8"
+  },
+  {
+    "id": 170,
+    "quote": "A ti, Senhor, clamei; e ao Senhor supliquei.",
+    "author": "Salmos 30:8"
+  },
+  {
+    "id": 171,
+    "quote": "Transformaste o meu pranto em dança.",
+    "author": "Salmos 30:11"
+  },
+  {
+    "id": 172,
+    "quote": "O Senhor é a minha rocha, e a minha fortaleza, e o meu libertador.",
+    "author": "Salmos 18:2"
+  },
+  {
+    "id": 173,
+    "quote": "Em Deus faremos proezas, porque ele é quem calca aos pés os nossos inimigos.",
+    "author": "Salmos 60:12"
+  },
+  {
+    "id": 174,
+    "quote": "Se Deus é por nós, quem será contra nós?",
+    "author": "Romanos 8:31"
+  },
+  {
+    "id": 175,
+    "quote": "Mas em todas estas coisas somos mais que vencedores, por aquele que nos amou.",
+    "author": "Romanos 8:37"
+  },
+  {
+    "id": 176,
+    "quote": "Porque estou certo de que nem a morte, nem a vida, nem anjos, nem principados, nem potestades, nem o presente, nem o porvir, nem a altura, nem a profundidade, nem alguma outra criatura poderá nos separar do amor de Deus.",
+    "author": "Romanos 8:38-39"
+  },
+  {
+    "id": 177,
+    "quote": "Posso todas as coisas naquele que me fortalece.",
+    "author": "Filipenses 4:13"
+  },
+  {
+    "id": 178,
+    "quote": "O meu Deus, segundo as suas riquezas, suprirá todas as vossas necessidades em glória.",
+    "author": "Filipenses 4:19"
+  },
+  {
+    "id": 179,
+    "quote": "A paz de Deus, que excede todo o entendimento, guardará os vossos corações e os vossos pensamentos em Cristo Jesus.",
+    "author": "Filipenses 4:7"
+  },
+  {
+    "id": 180,
+    "quote": "Regozijai-vos sempre no Senhor; outra vez digo, regozijai-vos.",
+    "author": "Filipenses 4:4"
+  },
+  {
+    "id": 181,
+    "quote": "O Senhor é fiel; ele vos confirmará e guardará do maligno.",
+    "author": "2 Tessalonicenses 3:3"
+  },
+  {
+    "id": 182,
+    "quote": "Ora, àquele que é poderoso para fazer infinitamente mais do que tudo o que pedimos ou pensamos.",
+    "author": "Efésios 3:20"
+  },
+  {
+    "id": 183,
+    "quote": "Sede fortes e corajosos; não temais, nem vos assusteis.",
+    "author": "Josué 1:9"
+  },
+  {
+    "id": 184,
+    "quote": "Não te mandei eu? Esforça-te, e tem bom ânimo.",
+    "author": "Josué 1:9"
+  },
+  {
+    "id": 185,
+    "quote": "Santifica-os na verdade; a tua palavra é a verdade.",
+    "author": "João 17:17"
+  },
+  {
+    "id": 186,
+    "quote": "Eu sou o caminho, a verdade e a vida; ninguém vem ao Pai senão por mim.",
+    "author": "João 14:6"
+  },
+  {
+    "id": 187,
+    "quote": "Deixo-vos a paz, a minha paz vos dou; não vo-la dou como o mundo a dá.",
+    "author": "João 14:27"
+  },
+  {
+    "id": 188,
+    "quote": "No mundo tereis aflições, mas tende bom ânimo; eu venci o mundo.",
+    "author": "João 16:33"
+  },
+  {
+    "id": 189,
+    "quote": "Eu sou a ressurreição e a vida; quem crê em mim, ainda que esteja morto, viverá.",
+    "author": "João 11:25"
+  },
+  {
+    "id": 190,
+    "quote": "Quem crê em mim, como diz a Escritura, do seu interior fluirão rios de água viva.",
+    "author": "João 7:38"
+  },
+  {
+    "id": 191,
+    "quote": "Deus é amor, e aquele que permanece em amor permanece em Deus, e Deus nele.",
+    "author": "1 João 4:16"
+  },
+  {
+    "id": 192,
+    "quote": "Maior é aquele que está em vós do que aquele que está no mundo.",
+    "author": "1 João 4:4"
+  },
+  {
+    "id": 193,
+    "quote": "Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar.",
+    "author": "1 João 1:9"
+  },
+  {
+    "id": 194,
+    "quote": "O Senhor é o meu ajudador, não temerei o que me possa fazer o homem.",
+    "author": "Hebreus 13:6"
+  },
+  {
+    "id": 195,
+    "quote": "Cheguemo-nos, pois, com confiança, ao trono da graça.",
+    "author": "Hebreus 4:16"
+  },
+  {
+    "id": 196,
+    "quote": "A fé é o firme fundamento das coisas que se esperam, e a prova das coisas que se não veem.",
+    "author": "Hebreus 11:1"
+  },
+  {
+    "id": 197,
+    "quote": "Sem fé é impossível agradar a Deus.",
+    "author": "Hebreus 11:6"
+  },
+  {
+    "id": 198,
+    "quote": "Jesus Cristo é o mesmo, ontem, hoje e eternamente.",
+    "author": "Hebreus 13:8"
+  },
+  {
+    "id": 199,
+    "quote": "Tudo o que tem fôlego louve ao Senhor. Aleluia!",
+    "author": "Salmos 150:6"
+  }
+
+]
