@@ -1,17 +1,17 @@
-# ✌ Me Motive ! Gerador de Frases Motivacionais
+# 🕊️ Esperança em Versos ! Gerador de Salmos Biblicos
 
-Visualizar Projeto: [Clique aqui](https://moraislucas.github.io/MeMotive/)
+Este projeto foi inspirado e adaptado apartir de outro repositório: [Clique aqui](https://moraislucas.github.io/MeMotive/)
 <br>
+
+![Preview do projeto](preview/1.jpg)
+
 
 ## Projeto
 
-Me Motive é uma aplicação para treino de Fetch API. É um gerador de frases motivacionais para dar um up no seu dia.
-Neste projeto utilizei uma API criada por mim com arquivos .JSON para treino de contrução e consumo de API's com Fetch do JS.
-Frases e Cores são puxadas de forma dinamica e mostradas ao usuario. 
+O **Salmos da Bíblia** é um projeto desenvolvido para exibir versículos de forma dinâmica e aleatória.  
+A aplicação utiliza **JavaScript, HTML e CSS**, consumindo um arquivo **JSON** com 200 versículos bíblicos.
 <br>
 
-## Layout
-![](https://github.com/moraislucas/MeMotive/blob/master/preview/1.jpg)
 
 ## Aprendizados 
 - Fetch API
